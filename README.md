@@ -13,7 +13,9 @@ Kotlin과 Jetpack Compose를 중심으로 Android 개발을 공부하고 있습�
 ### 01. 오늘두 | Android 팀 프로젝트
 
 <p align="center">
-  <img src="./oneuldoo-main.png" width="100%" alt="오늘두 대표 이미지" />
+  <a href="https://github.com/OnulDo/Onuldo_FE">
+    <img src="./oneuldoo-main.png" width="100%" alt="오늘두 대표 이미지" />
+  </a>
 </p>
 
 CameraX와 알림 기능을 활용한 Android 애플리케이션 프로젝트입니다.
@@ -29,7 +31,9 @@ CameraX와 알림 기능을 활용한 Android 애플리케이션 프로젝트입
 ### 02. mogiMap | 서울 모기 지수 서비스
 
 <p align="center">
-  <img src="./mogimap-main.png" width="100%" alt="mogiMap 대표 이미지" />
+  <a href="https://github.com/UMC-10th-Hackathon-TeamC/frontend">
+    <img src="./mogimap-main.png" width="100%" alt="mogiMap 대표 이미지" />
+  </a>
 </p>
 
 서울의 모기 지수 정보를 제공하는 Android 팀 프로젝트입니다.
